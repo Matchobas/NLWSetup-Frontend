@@ -25,6 +25,10 @@ export function SummaryTable() {
 
       <div className='grid grid-rows-7 grid-flow-col gap-3'>
         <Habit />
+        <Habit />
+        <Habit />
+        <Habit />
+        <Habit />
       </div>
     </div>
   )
