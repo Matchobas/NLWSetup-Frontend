@@ -18,7 +18,11 @@ export function Header() {
         </Dialog.Trigger>
 
         <Dialog.Portal>
-          
+          <Dialog.Overlay />
+
+          <Dialog.Content>
+            
+          </Dialog.Content>
         </Dialog.Portal>
       </Dialog.Root>
     </div>
